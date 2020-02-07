@@ -10,7 +10,8 @@ Spring Brewery Microservice Project A Spring Boot Based Microservices based proj
 
 Spring Boot,JPA,Hibernate,JMS,Lombok,Mapstruct,Maven,Spring Rest
 
-![_Basic Flowchart](https://user-images.githubusercontent.com/37083547/73685359-07e87380-4694-11ea-9c00-22c176543040.png)
+![_Basic Flowchart (3)](https://user-images.githubusercontent.com/37083547/74037333-0d8fd300-498c-11ea-9b74-43a382d74a98.jpeg)
+
 
 
 
